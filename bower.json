@@ -1,0 +1,18 @@
+{
+  "name": "bower-javascript-study-case",
+  "homepage": "https://github.com/lacau/bower-javascript-study-case",
+  "authors": [
+    "lacau <llacau@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
