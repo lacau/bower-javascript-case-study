@@ -1,1 +1,1 @@
-# bower-javascriptstudy-case
+# bower-javascript-study-case
