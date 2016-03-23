@@ -1,6 +1,6 @@
-# bower-javascript-study-case
+# bower-javascript-case-study
 
-Study case for bower
+Case study for bower
 
 Simple front-end example
   - Bower
